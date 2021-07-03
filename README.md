@@ -41,3 +41,5 @@ ________________________________________________
 #### Installation on openSUSE Leap & Tumbleweed:
          
 1.) Download my script: [Installation-Script](https://github.com/cryinkfly/Flashprint---3D-Printer-Software/blob/main/scripts/flashprint-install.sh) & follow the instructions in this file!
+
+##### Notice: This script works also on other Linux distrubitons!!!
