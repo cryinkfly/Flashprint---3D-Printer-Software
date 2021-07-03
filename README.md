@@ -34,8 +34,6 @@ CPU: Intel i7-7700HQ (8) @ 3.800GHz<br/>
 GPU: NVIDIA GeForce GTX 1060 Mobile 6G (Community Repository Nvidia & CUDA Repository)<br/>
 Memory: 32GB
 
-Wine version: wine-6.11 (WINEARCH = win64)
-
 ________________________________________________
 
 #### Installation on openSUSE Leap & Tumbleweed:
