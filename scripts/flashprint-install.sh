@@ -17,7 +17,6 @@ su -c 'zypper up && zypper install libGLU1 libQt5OpenGL5' &&
 echo "Minimum requirements have been installed and set up for your system!"
 
 echo "Download and install Flashprint on your computer!"
-cd Downloads &&
 mkdir -p flashprint &&
 cd flashprint &&
 
