@@ -39,3 +39,9 @@ You will get more information about this program, then you can visit the origina
 #### Installation on openSUSE Leap & Tumbleweed:
          
 1.) Download my script: [Installation-Script](https://github.com/cryinkfly/Flashprint---3D-Printer-Software/blob/main/scripts/flashprint-install.sh) & follow the instructions in this file!
+
+---
+
+## License
+
+All my scripts are released under the MIT license, see <a href="https://github.com/cryinkfly/Flashprint---3D-Printer-Software/blob/main/LICENSE.md">LICENSE.md</a> for full text.
