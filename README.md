@@ -25,7 +25,7 @@ You will get more information about this program, then you can visit the origina
 <a href="https://github.com/cryinkfly/Flashprint---3D-Printer-Software/tree/main/scripts">Installation program for Flashprint</a>
   - 📔 Documentation: <a href="https://youtu.be/yaHF6b6qqUc">Video on my YouTube-Channel</a>
   - 💬 Would You like to get in touch with me? Or if You have any questions, suggestions or problems?
-  - 📫 Then You can create an <a href="https://github.com/cryinkfly/Flashprint---3D-Printer-Software/issues">issue</a> here on GitHub or You can contact me via my <a href="https://cryinkfly.com/contact/">contact form</a>!
+  - 📫 Then You can create an <a href="https://github.com/cryinkfly/Flashprint---3D-Printer-Software/issues">issue</a> here on GitHub or You visit my <a href="https://cryinkfly.com">website</a> and get in touch with me!
 
 ---
 
