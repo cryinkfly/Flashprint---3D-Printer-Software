@@ -27,7 +27,7 @@ su -c 'cp etc/udev/rules.d/99-flashforge5.rules $ROOT/etc/udev/rules.d/' &&
 su -c 'cp usr/share/applications/FlashPrint5.desktop $ROOT/usr/share/applications/' &&
 su -c 'cp -r usr/share/doc/flashprint5/ $ROOT/usr/share/doc/' &&
 su -c 'cp -r usr/share/FlashPrint5/ $ROOT/usr/share/' &&
-su -c 'cp usr/share/icons/hicolor/64x64/apps/flashforge.png $ROOT/usr/share/icons/hicolor/64x64/apps/'
+su -c 'cp usr/share/icons/hicolor/64x64/apps/flashforge5.png $ROOT/usr/share/icons/hicolor/64x64/apps/'
 
 
 echo "The installation of Flashprint is completed!"
