@@ -4,8 +4,8 @@
 # Description:  With this file you can install Flashprint on Linux.
 # Author:       Steve Zabka
 # Author URI:   https://cryinkfly.de
-# Time/Date:    14:00/03.07.2021
-# Version:      1.1
+# Time/Date:    13:45/05.01.2022
+# Version:      1.2
 
 # 1. Step: Open a Terminal and run this command: cd Downloads && chmod +x flashprint-install.sh && bash flashprint-install.sh
 # 2. Step: The installation will now start and set up everything for you automatically.
@@ -20,13 +20,13 @@ echo "Download and install Flashprint on your computer!"
 mkdir -p flashprint &&
 cd flashprint &&
 
-wget https://en.fss.flashforge.com/10000/software/eb49bb17d0d578dbd22b01e388c53579.deb &&
-ar -x eb49bb17d0d578dbd22b01e388c53579.deb &&
+wget https://en.fss.flashforge.com/10000/software/3c387c1523ee5a2b8483b304091ca04c.deb &&
+ar -x 3c387c1523ee5a2b8483b304091ca04c.deb &&
 tar -xf data.tar.xz &&
-su -c 'cp etc/udev/rules.d/99-flashforge.rules $ROOT/etc/udev/rules.d/' &&
-su -c 'cp usr/share/applications/FlashPrint.desktop $ROOT/usr/share/applications/' &&
-su -c 'cp -r usr/share/doc/flashprint/ $ROOT/usr/share/doc/' &&
-su -c 'cp -r usr/share/FlashPrint/ $ROOT/usr/share/' &&
+su -c 'cp etc/udev/rules.d/99-flashforge5.rules $ROOT/etc/udev/rules.d/' &&
+su -c 'cp usr/share/applications/FlashPrint5.desktop $ROOT/usr/share/applications/' &&
+su -c 'cp -r usr/share/doc/flashprint5/ $ROOT/usr/share/doc/' &&
+su -c 'cp -r usr/share/FlashPrint5/ $ROOT/usr/share/' &&
 su -c 'cp usr/share/icons/hicolor/64x64/apps/flashforge.png $ROOT/usr/share/icons/hicolor/64x64/apps/'
 
 
